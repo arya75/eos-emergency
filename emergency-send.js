@@ -6,9 +6,9 @@ const twilio = require('twilio')(
 const body = 'EOS Emergency - Please see Keybase';
 
 const producerNumbers = {};
-producerNumbers["eoscanadacom"] = "+447725277831";
+producerNumbers["eoscanadacom"] = "+441315106091";
 producerNumbers["eosnewyorkio"] = null;
-producerNumbers["starteosiobp"] = "+447725277831";
+producerNumbers["starteosiobp"] = "+441315106091";
 producerNumbers["eoshuobipool"] = null;
 producerNumbers["bitfinexeos1"] = null;
 producerNumbers["libertyblock"] = null;
@@ -27,7 +27,7 @@ producerNumbers["teamgreymass"] = null;
 producerNumbers["eosamsterdam"] = null;
 producerNumbers["eosasia11111"] = null;
 producerNumbers["eosbeijingbp"] = null;
-producerNumbers["eoscafeblock"] = "+447725277831";
+producerNumbers["eoscafeblock"] = "+441315106091";
 
 var request = require('request');
 var rp = require('request-promise');
